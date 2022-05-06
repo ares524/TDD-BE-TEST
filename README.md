@@ -1,10 +1,8 @@
 # Available RESTful JSON API
 
-By the end of this lab **you will have built** a JSON API with a full set of RESTful endpoints:
-
-| RESTful Route       | Description                       |
-| :------------------ | :-------------------------------- |
-| `POST` `/calculate` | calculate sum, average, deviation |
+| RESTful Route           | Description                       |
+| :---------------------- | :-------------------------------- |
+| `POST` `/api/calculate` | calculate sum, average, deviation |
 
 ## Requirement
 
